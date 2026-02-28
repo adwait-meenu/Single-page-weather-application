@@ -1,0 +1,29 @@
+.weatherApp {
+    width: 33%;
+    height: 687px;
+    padding: 5px 0 50px 0;
+    margin: 0 auto;
+    text-align: center;
+    background-color:antiquewhite;
+    border-radius: 2%;
+    box-shadow: #989898 0 0 15px 0px;
+}
+.weatherApp h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333;
+}
+
+.searchBox {
+    text-align: center;
+}
+.searchBox p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5px;
+    margin-bottom: -20px;
+}
+
+.infoBox {
+    text-align: start;
+    justify-self: center;
+    box-shadow: #a1a1a1 0 0 15px 0px;
+}
